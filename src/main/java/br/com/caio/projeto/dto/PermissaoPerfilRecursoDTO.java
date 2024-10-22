@@ -12,7 +12,7 @@ import lombok.Setter;
 @NoArgsConstructor
 public class PermissaoPerfilRecursoDTO {
 	
-private Long id;
+	private Long id;
 	
 	private RecursoDTO recurso;
 	
